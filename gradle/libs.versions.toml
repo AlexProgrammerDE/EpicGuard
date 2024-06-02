@@ -38,7 +38,7 @@ geoip = "4.0.1"
 jackson = "2.15.2"
 maxmind-db = "3.0.0"
 
-caffeine = "3.1.6"
+caffeine = "3.1.8"
 
 fuzzywuzzy = "1.4.0"
 
