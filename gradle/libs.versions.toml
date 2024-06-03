@@ -23,7 +23,7 @@ slf4j = "2.0.7"
 log4j2 = "2.20.0"
 
 adventure-api = "4.14.0"
-adventure-platform = "4.3.0"
+adventure-platform = "4.3.3"
 
 annotations = "24.0.1"
 
